@@ -20,7 +20,7 @@ Shoe Detail screen for adding a new shoe
 ![Screenshot (4)](https://user-images.githubusercontent.com/87489620/200375219-f8f86af3-7025-4dd0-ad54-8c522e92feed.png)
 
 Shoe List Screen
-![Screenshot (5)](https://user-images.githubusercontent.com/87489620/200377730-6b4dbf12-f1f3-458e-aff8-03bb836592af.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/87489620/200377945-6869b6ea-35a3-4637-a8ec-1368b74b7e8f.png)
 
 
 
