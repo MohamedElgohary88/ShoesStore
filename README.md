@@ -6,7 +6,8 @@ The Shoe Store
 This project will consist of five screens. You don't have to create a shoe store, you can use any other item as long as you create the following screens. You will be creating:
 
 Login screen: Email and password fields and labels plus create and login buttons
-![login](https://user-images.githubusercontent.com/87489620/200154825-98e283b9-25c7-4ca0-bc92-102c1f39d866.jpg)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/87489620/200374156-0d0d9ba1-50d8-48b4-92bc-3cb2d26e4c14.png)
 
 Welcome onboarding screen
 ![welcome](https://user-images.githubusercontent.com/87489620/200154826-ca84dcfc-f975-47c4-ac0d-0c796c689d6e.jpg)
