@@ -10,14 +10,17 @@ Login screen: Email and password fields and labels plus create and login buttons
 ![Screenshot (1)](https://user-images.githubusercontent.com/87489620/200374156-0d0d9ba1-50d8-48b4-92bc-3cb2d26e4c14.png)
 
 Welcome onboarding screen
-![welcome](https://user-images.githubusercontent.com/87489620/200154826-ca84dcfc-f975-47c4-ac0d-0c796c689d6e.jpg)
+![Screenshot (2)](https://user-images.githubusercontent.com/87489620/200375145-73f9eaf5-b2af-46b8-9304-16e04e993084.png)
+
 
 Instructions onboarding screen
-![instruction](https://user-images.githubusercontent.com/87489620/200154827-05a01bc6-d590-46d6-bb8b-17bfb643f79e.jpg)
+![Screenshot (3)](https://user-images.githubusercontent.com/87489620/200375186-2536a108-85c8-4cdf-914b-7c64748ef1b2.png)
+
+Shoe Detail screen for adding a new shoe
+![Screenshot (4)](https://user-images.githubusercontent.com/87489620/200375219-f8f86af3-7025-4dd0-ad54-8c522e92feed.png)
 
 Shoe List Screen
 ![add](https://user-images.githubusercontent.com/87489620/200154829-8eaa2edc-160b-48a5-808d-665a0e568fc2.jpg)
 
-Shoe Detail screen for adding a new shoe
-![list](https://user-images.githubusercontent.com/87489620/200154830-e96e7af5-2e64-497e-803a-4015e576e42f.jpg)
+
 
