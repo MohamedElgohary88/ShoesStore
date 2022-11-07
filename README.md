@@ -1,4 +1,6 @@
 # ShoesStore
+Icon :
+ ![red_shoes](https://user-images.githubusercontent.com/87489620/200373644-693440b7-beb9-41d5-ac6a-6de5b74bb8f6.png)
 
 The Shoe Store
 This project will consist of five screens. You don't have to create a shoe store, you can use any other item as long as you create the following screens. You will be creating:
