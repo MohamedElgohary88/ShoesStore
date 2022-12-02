@@ -48,10 +48,10 @@ class ShoeListFragment : Fragment() {
                 false
             )
             with(bindingView) {
-                shoeItemName.text = it.name.toString()
-                shoeItemModel.text = it.model.toString()
-                shoeItemSize.text = it.size.toString()
-                shoeItemDescription.text = it.description.toString()
+                shoeItemName.text = it.name
+                shoeItemModel.text = it.model
+                shoeItemSize.text = it.size
+                shoeItemDescription.text = it.description
             }
             binding.linearLayout.addView(bindingView.root)
         }

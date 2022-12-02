@@ -28,14 +28,16 @@ class ShoeDetailFragment : Fragment() {
             DataBindingUtil.inflate(inflater, R.layout.fragment_shoe_detail, container, false)
 
         // saveData
-        binding.viewModel =  MainViewModel()
+        binding.viewModel =  Shoes()
+
 
         binding.buttonSave.setOnClickListener {
-            var name = binding.nameEditText.text.toString()
-            var size = binding.sizeEditText.text.toString()
-            var model = binding.modelEditText.text.toString()
-            var description = binding.descEditText.text.toString()
-            viewModel.saveShoe(name, model, size, description)
+           val  binding_data = binding.viewModel
+            val name = binding_data?.name
+            val size = binding_data?.size
+            val model = binding_data?.model
+            val description = binding_data?.description
+        viewModel.saveShoe(name!!, model!!, size!!, description!!)
 
             findNavController().navigate(R.id.action_shoeDetailFragment_to_shoeListFragment)
         }
