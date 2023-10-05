@@ -12,7 +12,6 @@ Login screen: Email and password fields and labels plus create and login buttons
 Welcome onboarding screen
 ![Screenshot (2)](https://user-images.githubusercontent.com/87489620/200375145-73f9eaf5-b2af-46b8-9304-16e04e993084.png)
 
-
 Instructions onboarding screen
 ![Screenshot (3)](https://user-images.githubusercontent.com/87489620/200375186-2536a108-85c8-4cdf-914b-7c64748ef1b2.png)
 
